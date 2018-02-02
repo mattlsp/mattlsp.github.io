@@ -31,7 +31,7 @@ header h1{
 	margin: 0;
 	text-indent: -10000px;
 	background: url(images/logo.png) no-repeat;
-	width: 130px;
+	width: 82px;
 	float: left;
 }
 
@@ -293,7 +293,7 @@ header nav li{
 }
 
 header nav{
-	background: #555;
+	background: #302a00;
 }
 	
 header .wrapper{
